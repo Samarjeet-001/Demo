@@ -1,1 +1,1 @@
-print("My Name is Samar")
+print("CHITKARA UNIVERSITY")
