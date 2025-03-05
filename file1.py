@@ -1,2 +1,2 @@
 print("CHITKARA UNIVERSITY")
-print("Udayveer Singh")
+print("Uday Singh")
